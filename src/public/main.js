@@ -1,4 +1,3 @@
-const { parse } = require("dotenv/types");
 
 const PUBLIC_VAPID_KEY = 'BDbsXufIH3eaXp8IE0wcgC28dksesLVvSLu9njWJZqRt0oNdwSh45zO7uKz4YqH3RSZyWeNVLhkXuq4cQXCaT9Y'
 
